@@ -1,16 +1,16 @@
-### Hi there 👋
+# l00sed
 
-<!--
-**l00sed/l00sed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+My name is Dan Tompkins, A.K.A. "l00sed".
+I'm a creative technologist.
+You can checkout some of my projects and writing on my [blog](https://l-o-o-s-e-d.net) or in my [portfolio](https://dato.work).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... some DIY robotics/mechatronics with Raspberry Pi and a wooden box for Wingspan pieces.
+- 🌱 I’m currently learning ... some Typescript in my [daily code sketches](https://github.com/l00sed/Daily-Sketches).
+- 👯 I’m looking to collaborate on ... anything in my stack or wheelhouse, hmu.
+- 🤔 I’m looking for help with ... some fun, artistic Web 3 experiments.
+- 💬 Ask me about ... anything (within reason).
+- 📫 How to reach me: DM me on [Twitter](https://twitter.com/l00sed) or send me an [email](mailto:dan@l-o-o-s-e-d.net) 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My favorite food might be lasagna.
