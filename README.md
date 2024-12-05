@@ -11,6 +11,6 @@ You can checkout some of my projects and writing on my [blog](https://l-o-o-s-e-
 - 👯 I’m looking to collaborate on ... anything in my stack or wheelhouse, hmu.
 - 🤔 I’m looking for help with ... some fun, artistic Web 3 experiments.
 - 💬 Ask me about ... anything (within reason).
-- 📫 How to reach me: DM me on [Twitter](https://twitter.com/l00sed) or send me an [email](mailto:dan@l-o-o-s-e-d.net) 
+- 📫 How to reach me: DM me on [Bluesky](https://bsky.app/profile/l-o-o-s-e-d.net) or send me an [email](mailto:dan@l-o-o-s-e-d.net) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favorite food might be lasagna.
